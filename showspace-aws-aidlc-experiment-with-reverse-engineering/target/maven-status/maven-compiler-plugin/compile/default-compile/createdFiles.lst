@@ -1,0 +1,12 @@
+com\ntq\showspace\catalog\model\MovieFormatMapping.class
+com\ntq\showspace\catalog\controller\CatalogController.class
+com\ntq\showspace\catalog\repository\MovieRepositoryImpl$1.class
+com\ntq\showspace\catalog\repository\MovieRepositoryImpl.class
+com\ntq\showspace\controller\HomeController.class
+com\ntq\showspace\catalog\repository\MovieRepositoryImpl$2.class
+com\ntq\showspace\catalog\model\ShowtimeReadModel.class
+com\ntq\showspace\catalog\model\MovieStatus.class
+com\ntq\showspace\catalog\repository\MovieRepository.class
+com\ntq\showspace\catalog\model\MovieMetadata.class
+com\ntq\showspace\catalog\model\Movie.class
+com\ntq\showspace\catalog\service\CatalogService.class
